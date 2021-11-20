@@ -133,4 +133,10 @@
       <Name>OfferApp</Name>
     </ProjectReference>
   </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Offer.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\wallpaper.jpg" />
+  </ItemGroup>
 </Project>
